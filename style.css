@@ -1,0 +1,106 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+header {
+
+    margin-top: 44px;
+    margin-left: 76px;
+    margin-bottom: 144px;
+
+}
+
+.linck-reader {
+    cursor: pointer;
+    font-size: 24px;
+    margin-right: 23px;
+    text-decoration: none;
+    color: gray;
+    line-height: ;
+}
+
+.bt-header {
+    border-radius: 20px;
+    font-size: 30px;
+    background: blueviolet;
+    width: 130px;
+    height: 45px;
+    border: none;
+    color: white;
+    line-height: 29px;
+
+}
+
+
+
+.logo {
+    margin-left: 155px;
+    width: 500px;
+    display: inline-block;
+    height: 500px;
+}
+
+
+
+.box-txt {
+
+    /* border: solid red 1px; */
+    width: 800px;
+    margin-left: 125px;
+
+    align-items: center;
+
+
+
+}
+
+h1 {
+    line-height: 122px;
+    font-weight: 900;
+    font-size: 100px;
+    color: #515151;
+}
+
+
+h2 {
+    font-size: 58px;
+    font-weight: 500;
+    line-height: 71px;
+    color: #515151;
+}
+
+p {
+    width: 515px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+    color: #848484;
+}
+
+.bt-main {
+    font-weight: 700;
+    cursor: pointer;
+    border-radius: 20px;
+    font-size: 28px;
+    background: #adff00;
+    width: 239px;
+    height: 64px;
+    border: none;
+    color: #000000;
+    line-height: 34px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+
+
+
+
+
+main {
+
+    display: flex;
+}
